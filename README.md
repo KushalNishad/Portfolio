@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KushalNishad
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python 3 and Tableau
+- 👀 My interests are in Data Analytics and Cloud Technologies
+- 🌱 I’m currently learning Python libraries pandas, matplotlib, Tableau and AWS
 - 💞️ I’m looking to collaborate on Football Data Analytics
 - 📫 How to reach me twitter : https://twitter.com/nkinho11
 
