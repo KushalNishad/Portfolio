@@ -1,19 +1,39 @@
-- 👋 Hi, I’m @KushalNishad
-- 👀 My interests are in Data Analytics and Cloud Technologies
-- 🌱 I’m currently learning Python libraries pandas, matplotlib, Tableau and AWS
-- 💞️ I’m looking to collaborate on Football Data Analytics
-- 📫 How to reach me twitter : https://twitter.com/nkinho11
+<h5 align="left">- 👋 Hi, I’m KushalNishad<br>- 👀 My interests are in Data Analytics and Cloud Technologies<br>- 🌱 I’m currently learning Python libraries pandas, matplotlib, Tableau and AWS<br>- 💞️ I’m looking to collaborate on Data Analytics projects</h5>
 
+###
 
-Learning
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="30" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/oracle/F80000" height="30" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ansible" height="30" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+</div>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/kushal-nishad/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=#ffffff&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-Contact Me
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nkinho11)
-<!---
-KushalNishad/KushalNishad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
