@@ -1,4 +1,4 @@
-<h5 align="left">- 👋 Hi, I’m KushalNishad<br>- 👀 My interests are in Data Analytics and Cloud Technologies<br>- 🌱 I’m currently learning AWS<br>- 💞️ I’m looking to collaborate on Data Analytics projects</h5>
+<h5 align="left">- 👋 Hi, I’m KushalNishad<br>- 👀 My interests are Cloud Technologies and DevOps<br>- 🌱 I’m currently learning AWS<br>- 💞️ I’m looking to collaborate on Data Analytics projects</h5>
 
 ###
 
@@ -11,8 +11,6 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="30" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -49,5 +47,3 @@
 ###
 
 <img src="https://raw.githubusercontent.com/KushalNishad/KushalNishad/output/snake.svg" alt="Snake animation" />
-
-###
