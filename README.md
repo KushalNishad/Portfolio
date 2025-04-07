@@ -1,4 +1,4 @@
-<h5 align="left">- 👋 Hi, I’m KushalNishad<br>- 👀 My interests are Cloud Technologies and DevOps<br>- 🌱 I’m currently learning AWS<br>- 💞️ I’m looking to collaborate on Data Analytics projects</h5>
+<h5 align="left">- 👋 Hi, I’m KushalNishad<br>- 👀 My interests are Cloud Technologies and DevOps<br>- 🌱 I’m currently learning AWS<br>- 💞️ I’m looking to collaborate on AWS projects</h5>
 
 ###
 
